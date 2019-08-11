@@ -14,3 +14,12 @@ footer {
     min-height: 50px;
     padding-top:12px;
 }
+
+.nounderline {
+  text-decoration: none !important;
+  font-color: black;
+}
+
+course {
+    padding-left: -20px;
+}
